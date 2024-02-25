@@ -8,6 +8,14 @@
   background-size: contain;
   background-attachment: scroll;
 }
+.fondoindex{
+  background-color: black;
+  background-image: url("../images/redes1.jpg");
+  background-repeat: repeat;
+  background-position: center;
+  background-size: contain;
+  background-attachment: scroll;
+}
 header {
   background-color:black;
   padding: 50px;
@@ -20,9 +28,6 @@ font-size: 85px;
   color:white;
 }
 
-.cuerpo1 {
- background-color:black;
-}
 body {
  background-color:black;
  width:100%;
