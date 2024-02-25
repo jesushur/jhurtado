@@ -1,6 +1,13 @@
 * {
   box-sizing: border-box;
 }
+.redesbody{
+  background-image: url("../images/fondoredes.jpg");
+  background-repeat: repeat;
+  background-position: center;
+  background-size: contain;
+  background-attachment: scroll;
+}
 header {
   background-color:black;
   padding: 50px;
@@ -12,6 +19,7 @@ header {
 font-size: 85px;
   color:white;
 }
+
 .cuerpo1 {
  background-color:black;
 }
