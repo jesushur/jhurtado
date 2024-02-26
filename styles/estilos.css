@@ -17,14 +17,16 @@
   background-attachment: scroll;
 }
 .tituloredes{
-  color:white;
+  color:black;
   font-size: 80px;
+  
 }
 .titulolenguajedemarcas{
   color:white;
+  fontsize: 70px;
 }
 header {
-  
+  margin: 20px;
   padding: 50px;
   text-align: center;
   font-size: 80px;
@@ -35,35 +37,22 @@ font-size: 85px;
   color:white;
 }
 
-body {
- background-color:black;
- width:100%;
-height:100%;
-}
 
-header {
-  background-color: black;
-  padding: 30px;
-  margin:20px;
-  text-align: center;
-  font-size: 85px;
-  color: black;
-}
 nav { 
   display: flex;
-  width: 100%;
+  width: 50%;
   background-color:black;
-  padding: 10px;
-  font-size:10px;
+  padding: 15px;
+  font-size:15px;
 }
 nav:hover{
   background:grey;
 }
 /* Estilo de la lista dentro del menu */
 ul {
-  list-style-type: upper-roman;
-  margin: 0;
-  padding: 0;
+  list-style-type: none;
+  margin: 10px;
+  padding: 10px;
   overflow: auto;
   background-color:black;
 }
