@@ -78,6 +78,13 @@
   background-size: contain;
   background-attachment: scroll;
 }
+.fondofiestaspopulares{
+  background-image: url("../images/fondofiestaspopulares.jpg");
+  background-repeat: repeat;
+  background-position: center;
+  background-size: contain;
+  background-attachment: scroll;
+}
 .fondoindex{
   background-color: black;
   background-image: url("../images/redes1.jpg");
