@@ -103,6 +103,10 @@
 h1{
   font-size: 80px;
 }
+.h1index{
+font-size: 85px;
+  color:white;
+}
 .h1cine{
   color: red;
 }
@@ -136,11 +140,6 @@ header {
   font-size: 80px;
   color:white;
 }
-.andy{
-font-size: 85px;
-  color:white;
-}
-
 
 nav { 
   display: flex;
