@@ -23,14 +23,14 @@
   background-attachment: scroll;
 }
 .bodyfol{
-   background-image: url("../images/fol.png");
+  background-image: url("../images/fol.png");
   background-repeat: repeat;
   background-position: center;
   background-size: contain;
   background-attachment: scroll;
 }
 .bodyisop{
-   background-image: url("../images/isop1.jpg");
+  background-image: url("../images/isop1.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
