@@ -28,6 +28,14 @@
   background-position: center;
   background-size: contain;
   background-attachment: scroll;
+}
+.bodyisop{
+   background-image: url("../images/isop1.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-attachment: scroll;
+}
 .fondoindex{
   background-color: black;
   background-image: url("../images/redes1.jpg");
