@@ -22,6 +22,12 @@
   background-size: contain;
   background-attachment: scroll;
 }
+.bodyfol{
+   background-image: url("../images/fol.png");
+  background-repeat: repeat;
+  background-position: center;
+  background-size: contain;
+  background-attachment: scroll;
 .fondoindex{
   background-color: black;
   background-image: url("../images/redes1.jpg");
