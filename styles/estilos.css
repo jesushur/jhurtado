@@ -86,6 +86,9 @@
   background-size: contain;
   background-attachment: scroll;
 }
+h1{
+  font-size: 80px;
+}
 .tituloredes{
   color:black;
   font-size: 80px;
