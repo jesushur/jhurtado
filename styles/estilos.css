@@ -181,6 +181,11 @@ li a:hover{
     max-width: 100%;
     height: auto;  
   } 
+    html{
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+    }
 }
 @media (max-width: 375px) {
   body {
@@ -188,6 +193,11 @@ li a:hover{
     max-width: 100%;
     height: auto;
   }
+   html{
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+    }
 }
 @media (max-width: 425px) {
   body {
@@ -195,6 +205,11 @@ li a:hover{
     max-width: 100%;
     height: auto;
   }
+   html{
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+    }
 }
 @media  (max-width: 768px) {
   body {
@@ -202,6 +217,11 @@ li a:hover{
     max-width: 100%;
     height: auto;
   }
+   html{
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+    }
 }
 @media  (max-width: 1024px) {
   body {
@@ -209,4 +229,9 @@ li a:hover{
     max-width: 100%;
     height: auto;
   }
+   html{
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+    }
 } 
